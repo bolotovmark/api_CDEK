@@ -1,0 +1,15 @@
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/bin/Debug/net7.0/api_CDEK
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/bin/Debug/net7.0/api_CDEK.deps.json
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/bin/Debug/net7.0/api_CDEK.runtimeconfig.json
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/bin/Debug/net7.0/api_CDEK.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/bin/Debug/net7.0/api_CDEK.pdb
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.csproj.AssemblyReference.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.AssemblyInfoInputs.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.AssemblyInfo.cs
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.csproj.CoreCompileInputs.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/refint/api_CDEK.dll
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.pdb
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/api_CDEK.genruntimeconfig.cache
+/Users/markbolotov/Library/CloudStorage/OneDrive-Личная/Работа/ЭРИС/API Транспортная компания/api_CDEK/api_CDEK/api_CDEK/obj/Debug/net7.0/ref/api_CDEK.dll
